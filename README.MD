@@ -63,7 +63,7 @@ Before running the application, you need to set up a MySQL database. Here's how:
     "email": "john.doe@example.com",
     "age": 30
   }
-  '''
+  ```
 - **Response** :
  ```
  {
